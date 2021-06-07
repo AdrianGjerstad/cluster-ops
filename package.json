@@ -1,0 +1,11 @@
+{
+  "name": "cluster-ops",
+  "version": "1.0.0",
+  "description": "Node.js Main-Worker Process Framework",
+  "main": "lib/cluster-ops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Gjerstad",
+  "license": "Apache-2.0"
+}
